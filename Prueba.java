@@ -6,7 +6,7 @@ public class Prueba{
 
      System.out.println("Leon");
 
-	
+     System.out.println("Trobajo del Camino");
   }
 
 }
